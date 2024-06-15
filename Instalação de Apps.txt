@@ -1,1 +1,5 @@
+Copyright 2024 - All rights reserved - by guelzn
+
+_______
+
 winget install "name.exe"
