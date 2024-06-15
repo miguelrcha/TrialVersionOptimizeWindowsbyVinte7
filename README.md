@@ -27,4 +27,6 @@ In this version, if you don't like any optimization, just add or remove the :: R
 
 ___
 
-- Copyright 2024 - All rights reserved - by guelzn 
+- Copyright 2024 - All rights reserved - by guelzn
+
+___
