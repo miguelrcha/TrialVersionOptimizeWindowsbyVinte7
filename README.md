@@ -1,3 +1,4 @@
+Português(BR);
 - EXECUTE COMO ADMINSTRADOR!! 
 
 Arquivo em lote (.bat) para otimização do Windows
@@ -13,6 +14,9 @@ ___
 
 - Copyright 2024 - All rights reserved - by guelzn 
 
+___
+
+English;
 - RUN AS ADMINSTRATOR!!
 
 - Batch file (.bat) for Windows optimization I created a mega Windows optimization script, removing all that telemetry junk, and making those tweaks that everyone does. A .bat file instead of those custom isos. I started with the basis of a script that the hwinfo guy made. Just paste it into notepad and save as .bat, and run as administrator. (Don't forget to generate a recovery point, in case it doesn't go your way). Remembering that everyone can customize it for their own use. I think I explained what each line does. To enable or disable a command, just remove or include the REM tag on each line.
