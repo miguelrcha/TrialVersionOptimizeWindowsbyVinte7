@@ -1,3 +1,7 @@
+Copyright 2024 - All rights reserved - by guelzn
+
+_______
+
 shutdown -r -t (value) -f
 
 shutdown -a
