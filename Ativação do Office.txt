@@ -1,3 +1,7 @@
+Copyright 2024 - All rights reserved - by guelzn
+
+_______
+
 :: Ativação Office 2016 - Cmd
 
 cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
