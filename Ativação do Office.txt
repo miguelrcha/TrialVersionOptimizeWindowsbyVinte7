@@ -1,0 +1,19 @@
+:: Ativação Office 2016 - Cmd
+
+cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
+
+for /f %x ('dir /b .. \root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:" ..\root\Licenses16\%x"
+
+cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-WFG99
+cscript ospp.vbs /unpkey:BTDRB >nul
+cscript ospp.vbs /unpkey:KHGM9 >nul
+cscript ospp.vbs /unpkey:CPQVG >nul
+cscript ospp.vbs /sethst:kms8.msguides.com
+cscript ospp.vbs /setprt:1688
+csrcipt ospp.vbs /act
+
+exit
+
+:: Link
+
+https://www.youtube.com/watch?v=g9NmZ-ypBcM
