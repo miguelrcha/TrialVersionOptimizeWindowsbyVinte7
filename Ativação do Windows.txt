@@ -1,3 +1,6 @@
-1 - Windows PowerShell 
+Copyright 2024 - All rights reserved - by guelzn
 
-2 - irm https://massgrave.dev/get | iex
+_______
+
+1-Windows PowerShell 
+2-Copy and paste; irm https://massgrave.dev/get | iex
